@@ -1,5 +1,5 @@
 # version.rb - version constant
 
-module CommandParser
+module CmdParse
   VERSION = '0.0.1'
 end

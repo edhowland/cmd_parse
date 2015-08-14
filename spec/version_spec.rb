@@ -3,6 +3,6 @@
 require_relative 'spec_helper'
 
 
-describe CommandParser::VERSION do
-  specify { CommandParser::VERSION.must_be_instance_of String }
+describe CmdParse::VERSION do
+  specify { CmdParse::VERSION.must_be_instance_of String }
 end
